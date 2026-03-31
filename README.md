@@ -46,9 +46,9 @@ I'm a final-year Computer Science undergraduate from **Anurag University, Hydera
 
 🔗 **Let's Connect:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/e-sainath-reddy-a64667287)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sainath2513@gmail.com)
 
 ---
 
-> *"First, solve the problem. Then, write the code."*
+
